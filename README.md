@@ -61,10 +61,8 @@ Goto Front_Page.java and simple run file simple like normal java file.
 Style guide / Testing
 Run Step by Step As per your Requirements. We have provided Output images for you Understanding See in Output_images Folder.
 How to work Our Application .
-
+------------- ---------------- ------------- -- -- -- - - - -- - - - -- - --  -- - -- - -- - - -- - - - -- - - - - -- - - -- - - -
 Welcome page
-Login page
-login with Username & Id
 Signup & Forgot password
 Home page
 Employee
@@ -72,17 +70,18 @@ Employee
 ![Welcome](https://github.com/mrmanishgit/Employee_Management_System/assets/157808382/99dc8f67-e957-4147-8e3a-be6f716ec92c)
 ![Homeicone](https://github.com/mrmanishgit/Employee_Management_System/assets/157808382/0c061d1a-33ba-460a-a6c0-ec1fe2b72b77)
 ![Aboutus](https://github.com/mrmanishgit/Employee_Management_System/assets/157808382/217bfecf-e14c-46e0-97ff-bef144900b38)
-![Attendance]
 About US
 Employee Panel
 Add Employee
-Update Employee(https://github.com/mrmanishgit/Employee_Management_System/assets/157808382/f3944e67-59d4-4768-a9bb-7512bee133d4)
-![Employeedetail]
+Update Employee
+![Attendance](https://github.com/mrmanishgit/Employee_Management_System/assets/157808382/f3944e67-59d4-4768-a9bb-7512bee133d4)
 Salary
 Attendance
-(https://github.com/mrmanishgit/Employee_Management_System/assets/157808382/420d6ae0-68e2-4e0a-bc17-037dbae88139)
+![Employeedetail](https://github.com/mrmanishgit/Employee_Management_System/assets/157808382/420d6ae0-68e2-4e0a-bc17-037dbae88139)
 ![Removeemployee](https://github.com/mrmanishgit/Employee_Management_System/assets/157808382/b09e2766-5b7c-4ea7-b086-cbfb86c50464)
 ![Upadatesalary](https://github.com/mrmanishgit/Employee_Management_System/assets/157808382/0647e798-c383-4041-bbca-c5288af63564)
+Login page
+login with Username & Id
 ![login](https://github.com/mrmanishgit/Employee_Management_System/assets/157808382/591bc7c1-6472-4ba3-b3b5-0043bcd237f9)
 View Employee
 Remove Employee
